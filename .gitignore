@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite Databases & Local Storage
+*.db
+*.sqlite3
+
+# Environment Variables & Secret Keys
+.env
+
+# Temporary Files & Notebook Checkpoints
+.ipynb_checkpoints/
+tmp/
+*.tmp
